@@ -2,6 +2,12 @@ coloremoji.sty
 ==============
 Style package for directly including color emojis in latex documents
 
+Version 1.0  
+All files subject to the lppl 1.3c license.  
+Copyright Alec Jacobson, 2018.  
+
+Images in the `emoji_images/` directory are generated using https://github.com/doraTeX/coloremoji/blob/master/extract_emoji.rb on a machine with the https://en.wikipedia.org/wiki/Apple_Color_Emoji font installed.
+
 Installation
 
     mkdir -p ~/Library/texmf/tex/latex/local
